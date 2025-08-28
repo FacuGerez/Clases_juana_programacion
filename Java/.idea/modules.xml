@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActasMaterias_P2/ActasMaterias_P2.iml" filepath="$PROJECT_DIR$/ActasMaterias_P2/ActasMaterias_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprenderSobreJava/AprenderSobreJava.iml" filepath="$PROJECT_DIR$/AprenderSobreJava/AprenderSobreJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cambio_climatico/Cambio_climatico.iml" filepath="$PROJECT_DIR$/Cambio_climatico/Cambio_climatico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estacionamiento_P2/Estacionamiento_P2.iml" filepath="$PROJECT_DIR$/Estacionamiento_P2/Estacionamiento_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Filatelia/Filatelia.iml" filepath="$PROJECT_DIR$/Filatelia/Filatelia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GestorTareas/GestorTareas.iml" filepath="$PROJECT_DIR$/GestorTareas/GestorTareas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jugueteria_P2/Jugueteria_P2.iml" filepath="$PROJECT_DIR$/Jugueteria_P2/Jugueteria_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Muebles_juana/Muebles_juana.iml" filepath="$PROJECT_DIR$/Muebles_juana/Muebles_juana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrtServicies_P2/OrtServicies_P2.iml" filepath="$PROJECT_DIR$/OrtServicies_P2/OrtServicies_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PARCIAL_PIZZERIA/PARCIAL_PIZZERIA.iml" filepath="$PROJECT_DIR$/PARCIAL_PIZZERIA/PARCIAL_PIZZERIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PIZZERIA_P2/PIZZERIA_P2.iml" filepath="$PROJECT_DIR$/PIZZERIA_P2/PIZZERIA_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial2_Juana/Parcial2_Juana.iml" filepath="$PROJECT_DIR$/Parcial2_Juana/Parcial2_Juana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parcial_pizzeria2/Parcial_pizzeria2.iml" filepath="$PROJECT_DIR$/Parcial_pizzeria2/Parcial_pizzeria2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peajes_P2/Peajes_P2.iml" filepath="$PROJECT_DIR$/Peajes_P2/Peajes_P2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pedidos_juana/Pedidos_juana.iml" filepath="$PROJECT_DIR$/Pedidos_juana/Pedidos_juana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pizzeria_juana/Pizzeria_juana.iml" filepath="$PROJECT_DIR$/Pizzeria_juana/Pizzeria_juana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1_PARCIAL1_CERVECERIA/TP1_PARCIAL1_CERVECERIA.iml" filepath="$PROJECT_DIR$/TP1_PARCIAL1_CERVECERIA/TP1_PARCIAL1_CERVECERIA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Veterinaria/Veterinaria.iml" filepath="$PROJECT_DIR$/Veterinaria/Veterinaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoJuegos_TP1_P2/VideoJuegos_TP1_P2.iml" filepath="$PROJECT_DIR$/VideoJuegos_TP1_P2/VideoJuegos_TP1_P2.iml" />
+    </modules>
+  </component>
+</project>
