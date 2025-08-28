@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "PKief.material-icon-theme",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "GitHub.copilot",
+    "ecmel.vscode-html-css",
+    "oderwat.indent-rainbow",
+    "esbenp.prettier-vscode"
+  ]
+}
