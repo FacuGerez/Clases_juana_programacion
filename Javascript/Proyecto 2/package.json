@@ -1,0 +1,15 @@
+{
+  "name": "aprendernode",
+  "version": "1.0.0",
+  "description": "Cualquier cosaaaaaaaaaa",
+  "license": "ISC",
+  "author": "Juana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}

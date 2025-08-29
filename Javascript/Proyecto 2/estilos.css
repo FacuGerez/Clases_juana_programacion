@@ -1,0 +1,18 @@
+
+#identificador{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nombre-de-clase {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    color: #000;
+    font-size: 24px;
+    font-weight: bold;
+}
